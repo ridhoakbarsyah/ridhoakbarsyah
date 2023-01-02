@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridhoakbarsyah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me in My LinkedIn Ridho Akbarsyah. Connect With Me
 
